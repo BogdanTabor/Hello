@@ -1,0 +1,24 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "html-build": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-html": "html-build index.html/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BogdanTabor/hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogdanTabor/hello/issues"
+  },
+  "homepage": "https://github.com/BogdanTabor/hello#readme"
+}
